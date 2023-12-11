@@ -1,4 +1,4 @@
 # ML-Projects
-Machine Learning personal projects / self-teaching.
+Sports Prediction project.
 
-Some uploaded will be works in progress, so expect occasional updates!
+Using sklearn and data from the NHL to predict team performance based on prior season win-loss records.
