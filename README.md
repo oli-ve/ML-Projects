@@ -1,4 +1,4 @@
 # ML-Projects
-Sports Prediction project.
+University Admission project.
 
-Using sklearn and data from the NHL to predict team performance based on prior season win-loss records.
+Using sklearn and university admission data to predict chance of getting a place on the basis of GPA, test scores.
